@@ -1,2 +1,2 @@
-##NikkouServerResourcesPack
+# NikkouServerResourcesPack
 サーバー固有のリソースパックが正常に動作しない場合に使用してね！
